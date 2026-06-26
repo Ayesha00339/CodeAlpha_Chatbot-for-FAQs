@@ -129,7 +129,7 @@ faq_chatbot/
 
 ---
 
-## 👩‍💻 Developer
+## 👩‍💻 Author
 
 **AYESHA BUKHARI**
 *AI Internship Task — CodeAlpha*
